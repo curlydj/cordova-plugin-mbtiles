@@ -1,0 +1,26 @@
+{
+  "name": "gina-plugin-mbtiles",
+  "version": "1.0.1",
+  "description": "Simple Cordova API plugin providing map tiles from MBTiles (SQLite) db file capable of providing multiple mbtiles sources at the same time.",
+  "cordova": {
+    "id": "gina-plugin-mbtiles",
+    "platforms": [
+      "android",
+      "amazon-fireos",
+      "ios",
+      "wp7",
+      "wp8",
+      "windows"
+    ]
+  },  
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kurdnka/cordova-plugin-mbtiles.git"
+  },
+  "author": "Roman Beránek",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kurdnka/cordova-plugin-mbtiles/issues"
+  },
+  "homepage": "https://github.com/kurdnka/cordova-plugin-mbtiles"
+}
